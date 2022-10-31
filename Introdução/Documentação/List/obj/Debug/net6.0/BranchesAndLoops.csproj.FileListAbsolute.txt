@@ -1,0 +1,15 @@
+C:\Users\503565\Documents\.NET\Lista\bin\Debug\net6.0\BranchesAndLoops.exe
+C:\Users\503565\Documents\.NET\Lista\bin\Debug\net6.0\BranchesAndLoops.deps.json
+C:\Users\503565\Documents\.NET\Lista\bin\Debug\net6.0\BranchesAndLoops.runtimeconfig.json
+C:\Users\503565\Documents\.NET\Lista\bin\Debug\net6.0\BranchesAndLoops.dll
+C:\Users\503565\Documents\.NET\Lista\bin\Debug\net6.0\BranchesAndLoops.pdb
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.csproj.AssemblyReference.cache
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.dll
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\refint\BranchesAndLoops.dll
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.pdb
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\BranchesAndLoops.genruntimeconfig.cache
+C:\Users\503565\Documents\.NET\Lista\obj\Debug\net6.0\ref\BranchesAndLoops.dll

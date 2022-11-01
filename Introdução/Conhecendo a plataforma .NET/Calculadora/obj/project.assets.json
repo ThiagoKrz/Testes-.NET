@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET\\Introdução\\Conhecendo a plataforma .NET\\Testing\\TestingShit.csproj",
-      "projectName": "TestingShit",
-      "projectPath": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET\\Introdução\\Conhecendo a plataforma .NET\\Testing\\TestingShit.csproj",
+      "projectUniqueName": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET\\Introdução\\Conhecendo a plataforma .NET\\Calculadora\\Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET\\Introdução\\Conhecendo a plataforma .NET\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\thisi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET\\Introdução\\Conhecendo a plataforma .NET\\Testing\\obj\\",
+      "outputPath": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET\\Introdução\\Conhecendo a plataforma .NET\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thisi\\AppData\\Roaming\\NuGet\\NuGet.Config"

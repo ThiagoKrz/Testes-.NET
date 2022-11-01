@@ -1,11 +1,84 @@
 ﻿using Testing.Models;
 
-string a = "10-";
-int b = 25;
-int.TryParse(a, out b);
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
 
-Console.WriteLine(b);
-Console.WriteLine("Conversão realizada com sucesso");
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+    Console.WriteLine("Vogal");
+    break;
+
+    default:
+    Console.WriteLine("Não é uma vogal");
+    break;
+}
+
+// bool choveu = true;
+// bool estaTarde = true;
+
+// if(!choveu && !estaTarde)
+// {
+//     Console.WriteLine("Vou pedalar.");
+// }
+// else
+// {
+//     Console.WriteLine("Vou pedalar outro dia.");
+// }
+
+
+// bool possuiPresencaMinima = true;
+// int media = 7;
+
+// if (possuiPresencaMinima && media>=7)
+// {
+//     Console.WriteLine("Passou");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovou");
+// }
+
+// bool ehMaiorDeIdade = true;
+// bool possuiAutorizacao = false;
+
+// if (ehMaiorDeIdade || possuiAutorizacao)
+// {
+//     Console.WriteLine("Entrada liberada");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada não liberada");
+// }
+
+// int quantidadeEmEstoque = 3;
+// int quantidadeCompra = 0;
+// bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+// if (quantidadeCompra==0)
+// {
+//     Console.WriteLine("Venda inválida.");
+// }
+
+// else if (possivelVenda)
+// {
+//     Console.WriteLine("Venda realizada.");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe, não temos a quantidade de desejada em estoque.");
+// }
+
+// string a = "10-";
+// int b = 25;
+// int.TryParse(a, out b);
+
 // int b = int.MaxValue;
 // double a = Convert.ToInt32(b);
 // Console.WriteLine(b);

@@ -1,42 +1,42 @@
 ﻿using Calculadora.Models;
 
-string option;
-bool exibirMenu = true;
+// string option;
+// bool exibirMenu = true;
 
-while(exibirMenu)
-{
-    Console.Clear();
-    Console.WriteLine("Digite aqui a opção selecionada:");
-    Console.WriteLine("1 - Cadastrar cliente");
-    Console.WriteLine("2 - Buscar cliente");
-    Console.WriteLine("3 - Apagar cliente");
-    Console.WriteLine("4 - Encerrar");
+// while(exibirMenu)
+// {
+//     Console.Clear();
+//     Console.WriteLine("Digite aqui a opção selecionada:");
+//     Console.WriteLine("1 - Cadastrar cliente");
+//     Console.WriteLine("2 - Buscar cliente");
+//     Console.WriteLine("3 - Apagar cliente");
+//     Console.WriteLine("4 - Encerrar");
 
-    option = Console.ReadLine();
-    switch(option)
-    {
-        case "1":
-            Console.WriteLine("Cadastro de cliente");
-            break;
-        case "2":
-            Console.WriteLine("Busca de cliente");
-            break;
-        case "3":
-            Console.WriteLine("Apagar cliente");
-            break;
-        case "4":
-            Console.WriteLine("Encerrar");
-            exibirMenu=false;
-            // Environment.Exit(0);
-            break;
-            default:
+//     option = Console.ReadLine();
+//     switch(option)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de cliente");
+//             break;
+//         case "2":
+//             Console.WriteLine("Busca de cliente");
+//             break;
+//         case "3":
+//             Console.WriteLine("Apagar cliente");
+//             break;
+//         case "4":
+//             Console.WriteLine("Encerrar");
+//             exibirMenu=false;
+//             // Environment.Exit(0);
+//             break;
+//             default:
 
-            Console.WriteLine("Opção inválida");
-            break;
-    }
-}
+//             Console.WriteLine("Opção inválida");
+//             break;
+//     }
+// }
 
-Console.WriteLine("O programa se encerrou.");
+// Console.WriteLine("O programa se encerrou.");
 
 
 // int soma=0, numero = 0;
@@ -62,9 +62,9 @@ Console.WriteLine("O programa se encerrou.");
 //     }
 // }
 
-// int n1= 2;
-// for(int contador = 0; contador <= 100; contador++){
-// Console.WriteLine($"{n1} x {contador} = {n1 * contador}");
+// int n2= 2;
+// for(int contadors = 0; contadors <= 100; contadors++){
+// Console.WriteLine($"{n2} x {contadors} = {n2 * contadors}");
 // }
 
 // Calculador calc = new Calculador();
@@ -73,3 +73,16 @@ Console.WriteLine("O programa se encerrou.");
 // calc.Subtrair(5,2);
 // calc.Dividir(50,2);
 // calc.Multiplicar(5,2);
+
+
+int[] arrayInteiros = new int[3];
+
+arrayInteiros[0] = 72;
+arrayInteiros[1] = 64;
+arrayInteiros[2] = 22;
+// arrayInteiros[3] = 55;
+
+for(int contador = 0; contador < arrayInteiros.Length; contador++)
+{
+    Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
+}

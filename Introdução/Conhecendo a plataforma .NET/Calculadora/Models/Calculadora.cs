@@ -8,7 +8,7 @@ namespace Calculadora.Models
     public class Calculador
     {
        
-                public void Somar(int x, int y)
+        public void Somar(int x, int y)
         {
             Console.WriteLine($"{x} + {y} é = {x+y}");
         }

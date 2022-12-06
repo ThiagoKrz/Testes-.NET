@@ -13,3 +13,18 @@ C:\Users\503565\Documents\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.
 C:\Users\503565\Documents\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.pdb
 C:\Users\503565\Documents\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.genruntimeconfig.cache
 C:\Users\503565\Documents\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\ref\Intermediario.dll
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\bin\Debug\net6.0\Intermediario.exe
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\bin\Debug\net6.0\Intermediario.deps.json
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\bin\Debug\net6.0\Intermediario.runtimeconfig.json
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\bin\Debug\net6.0\Intermediario.dll
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\bin\Debug\net6.0\Intermediario.pdb
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.csproj.AssemblyReference.cache
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.AssemblyInfoInputs.cache
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.AssemblyInfo.cs
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.csproj.CoreCompileInputs.cache
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.dll
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\refint\Intermediario.dll
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.pdb
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\Intermediario.genruntimeconfig.cache
+C:\Users\thisi\Documents\DIO\NET C#\Testes-.NET\Introdução\Intermediario\obj\Debug\net6.0\ref\Intermediario.dll

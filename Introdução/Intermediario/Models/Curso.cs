@@ -26,9 +26,12 @@ namespace Intermediario.Models
         public void ListarAlunos()
         {
             Console.WriteLine($"Alunos do curso de: {Nome}");
-            foreach(Pessoa aluno in Alunos)
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                string texto = "Nº " + count + " - " + Alunos[count].NomeCompleto;
+                int exibicao = count + 1;
+                string texto1 = $"Nº {exibicao} - {Alunos[count].NomeCompleto}";
+                Console.WriteLine(texto1);
             }
         }
     }

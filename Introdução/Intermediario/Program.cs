@@ -1,25 +1,23 @@
 ﻿using Intermediario.Models;
 using System.Globalization;
 
-LeituraArquivo arquivo = new LeituraArquivo();
+int numero = 21;
+bool ehPar = false;
 
-var (Sucesso, Linhas, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+// IF TERNARIO
+ehPar = numero % 2 == 0;
 
-if (Sucesso)
-{
-    // Console.WriteLine($"Quantidade linhas do arquivo: {QuantidadeLinhas}");
-    foreach(string linhas in Linhas)
-    {
-        Console.WriteLine(linhas);
-    }
-}
-else
-{
-    Console.WriteLine("Não foi possível ler o arquivo.");
-}
+Console.WriteLine($"O número {numero} é " + (ehPar ?"par":"impar"));
 
-
-
+// IF NÃO TERNARIO
+// if (numero % 2 == 0)
+// {
+//     Console.WriteLine($"O número {numero} é par");
+// }
+// else
+// {
+//     Console.WriteLine($"O número {numero} é impar");
+// }
 
 
 
@@ -27,6 +25,33 @@ else
 
 
 
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Bruno", "Valentim");
+
+// (string nome, string sobrenome) = p1;
+
+// Console.WriteLine($"{nome} {sobrenome}");
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (Sucesso, Linhas, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (Sucesso)
+// {
+//     // Console.WriteLine($"Quantidade linhas do arquivo: {QuantidadeLinhas}");
+//     foreach(string linhas in Linhas)
+//     {
+//         Console.WriteLine(linhas);
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possível ler o arquivo.");
+// }
 
 
 // (int ID, string Nome, string Sobrenome) tupla = (1, "Bruno", "Valentim");
